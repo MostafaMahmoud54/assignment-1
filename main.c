@@ -9,6 +9,11 @@ struct student
     int year;
     int score;
 };
+struct node
+{
+    struct student st;
+    struct node *next;
+};
 int main()
 {
     printf("Welcome to Assignment 1!\n");
