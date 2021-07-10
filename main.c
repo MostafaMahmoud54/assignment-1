@@ -1,4 +1,4 @@
-// Name:Ame Moussa Ramadan     sec:3   bn21
+// Name:Amr Moussa Ramadan     sec:3   bn21
 // Name:Lobna Ahmed Ismail     sec:3   bn:25
 // Name:Mostafa Mahmoud Abdelkader sec:4   bn:20
 
